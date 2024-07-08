@@ -1,6 +1,15 @@
+<script setup>
+import DataSiswa from '../components/about/Data-Siswa.vue';
+import DaftarSiswa from '../components/about/Daftar-Siswa.vue';
+</script>
+
 <template>
   <div>
-    <h1>About</h1>
+    <DataSiswa />
   </div>
 </template>
+
+<style scoped>
+
+</style>
 

@@ -31,7 +31,6 @@ import { RouterLink } from 'vue-router';
 
 .menu-item-link {
     text-decoration: none;
-    color: rgb(190, 176, 176);
     font-size: 30px;
 }
 </style>
